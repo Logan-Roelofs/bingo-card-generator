@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bingo-card-generator/static/css/main.e6c13ad2.css",
+    "main.js": "/bingo-card-generator/static/js/main.636ba0dd.js",
+    "static/js/787.12314da3.chunk.js": "/bingo-card-generator/static/js/787.12314da3.chunk.js",
+    "index.html": "/bingo-card-generator/index.html",
+    "main.e6c13ad2.css.map": "/bingo-card-generator/static/css/main.e6c13ad2.css.map",
+    "main.636ba0dd.js.map": "/bingo-card-generator/static/js/main.636ba0dd.js.map",
+    "787.12314da3.chunk.js.map": "/bingo-card-generator/static/js/787.12314da3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.636ba0dd.js"
+  ]
+}
